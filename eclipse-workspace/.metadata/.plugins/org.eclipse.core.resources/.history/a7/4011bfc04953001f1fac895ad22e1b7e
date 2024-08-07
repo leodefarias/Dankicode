@@ -1,0 +1,10 @@
+package teste_curso_games;
+
+public class player {
+	public int vida = 10;
+	public String nome = "Leo";
+	
+	public void perderVida() {
+		vida -= 1;
+	}
+}

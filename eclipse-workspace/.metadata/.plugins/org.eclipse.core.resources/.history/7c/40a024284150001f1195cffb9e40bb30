@@ -1,0 +1,13 @@
+package teste_curso_games;
+
+public class game {
+
+	public static void main(String[] args) {
+		String nome = "Guilherme";
+		int idade = 28;
+		boolean tipo = true;
+		
+		System.out.println("Hello World" + nome);
+	}
+		
+}

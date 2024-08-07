@@ -1,0 +1,17 @@
+package teste_curso_games;
+
+public class game {
+
+	public static void main(String[] args) {
+		String nome = "Leo";
+		int idade = 29;
+		boolean tipo = true;
+		
+		if(idade == 28) {
+			System.out.println("A idade é " + idade);
+		} else {
+			System.out.println("A idade correta é " + idade);
+		}
+	}
+		
+}

@@ -1,0 +1,10 @@
+package zeldaminiclone;
+
+import java.awt.Graphics;
+
+public class World {
+	
+	public void render(Graphics g) {
+		
+	}
+}

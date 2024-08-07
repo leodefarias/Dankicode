@@ -1,0 +1,16 @@
+package teste_curso_games;
+
+public class Game {
+
+	public static void main(String[] args) {
+		
+		Player player = new Player();
+		Elf elf = new Elf();
+		
+		elf.tomarDano();
+		
+		System.out.println(elf.getVida());
+		
+	}
+		
+}
